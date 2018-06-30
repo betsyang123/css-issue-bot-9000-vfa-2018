@@ -13,9 +13,8 @@ h2 {
   font-style : italic;
 }
 
-h3
 .completed {
-  font-size: 12px;
+  font-family: 12px;
 }
 
 #tasks .completed {
